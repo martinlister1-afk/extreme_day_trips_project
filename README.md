@@ -13,3 +13,9 @@
 `code` 
 
 ---
+
+
+
+- [x] write the press release
+- [ ] update the website 
+- [ ] contact the media
