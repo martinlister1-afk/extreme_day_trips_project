@@ -47,7 +47,7 @@ nav a:hover {
 .hero {
     text-align: center;
     padding: 60px 20px;
-    background-color: #e8e8e8;
+    /* background-color: #e8e8e8; */
 }
 
 .hero-title {
@@ -224,9 +224,6 @@ nav a:hover {
     color: #7aa2ff;
 }
 
-.dark-mode .hero {
-    background-color: #252525;
-}
 
 .dark-mode .hero-title {
     color: #f0f0f0;
@@ -237,12 +234,12 @@ nav a:hover {
 }
 
 .dark-mode .hero-footer {
-    background-color: #2a2a2a;
+    background-color: #2a2a2a;  
     border: 2px solid #444;
 }
 
 .dark-mode .about-container {
-    background-color: #2a2a2a;
+    background-color: #2a2a2a; 
     border: 2px solid #444;
 }
 
