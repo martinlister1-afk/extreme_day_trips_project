@@ -1,5 +1,14 @@
 /* contact page */
 
+
+
+
+body {
+    background-image: url(background_image_1.jpg);
+    background-repeat: no-repeat;
+}
+
+
 .contact-container {
     width: 1200px;
     margin: 0 auto;

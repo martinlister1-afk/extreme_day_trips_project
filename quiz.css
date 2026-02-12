@@ -1,5 +1,12 @@
 /* quiz page */
 
+
+body {
+    background-image: url(background_image_1.jpg);
+    background-repeat: no-repeat;
+}
+
+
 .grid-container {
     text-align: center;
     padding: 50px;
